@@ -12,3 +12,4 @@ d:\UnityHub\Study\Study\obj\Debug\net9.0\refint\Study.dll
 d:\UnityHub\Study\Study\obj\Debug\net9.0\Study.pdb
 d:\UnityHub\Study\Study\obj\Debug\net9.0\Study.genruntimeconfig.cache
 d:\UnityHub\Study\Study\obj\Debug\net9.0\ref\Study.dll
+D:\UnityHub\Study\Study\obj\Debug\net9.0\Study.sourcelink.json
