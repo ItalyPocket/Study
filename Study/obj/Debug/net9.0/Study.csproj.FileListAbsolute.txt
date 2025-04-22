@@ -1,0 +1,14 @@
+d:\UnityHub\Study\Study\obj\Debug\net9.0\Study.GeneratedMSBuildEditorConfig.editorconfig
+d:\UnityHub\Study\Study\obj\Debug\net9.0\Study.AssemblyInfoInputs.cache
+d:\UnityHub\Study\Study\obj\Debug\net9.0\Study.AssemblyInfo.cs
+d:\UnityHub\Study\Study\obj\Debug\net9.0\Study.csproj.CoreCompileInputs.cache
+d:\UnityHub\Study\Study\bin\Debug\net9.0\Study.exe
+d:\UnityHub\Study\Study\bin\Debug\net9.0\Study.deps.json
+d:\UnityHub\Study\Study\bin\Debug\net9.0\Study.runtimeconfig.json
+d:\UnityHub\Study\Study\bin\Debug\net9.0\Study.dll
+d:\UnityHub\Study\Study\bin\Debug\net9.0\Study.pdb
+d:\UnityHub\Study\Study\obj\Debug\net9.0\Study.dll
+d:\UnityHub\Study\Study\obj\Debug\net9.0\refint\Study.dll
+d:\UnityHub\Study\Study\obj\Debug\net9.0\Study.pdb
+d:\UnityHub\Study\Study\obj\Debug\net9.0\Study.genruntimeconfig.cache
+d:\UnityHub\Study\Study\obj\Debug\net9.0\ref\Study.dll
